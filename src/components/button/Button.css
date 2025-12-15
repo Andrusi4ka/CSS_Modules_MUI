@@ -1,0 +1,34 @@
+.button {
+    border: 1px solid transparent;
+    box-shadow: 1px 1px 5px #8c8c8c;
+    margin: 0;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.contained {
+    background-color: blue;
+    border-color: blue;
+}
+
+.text {
+    color: blue;
+}
+
+.outlined {
+    border-color: blue;
+}
+
+.small {
+    padding: 10px 15px;
+}
+
+.medium {
+    padding: 16px 20px;
+}
+
+.large {
+    padding: 20px 30px;
+}
