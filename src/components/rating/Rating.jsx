@@ -1,6 +1,6 @@
 import Rating from '@mui/material/Rating';
 import Stack from '@mui/material/Stack';
-import styles from './rating.module.scss'
+import styles from './Rating.module.scss'
 
 export default function RatingSize() {
     return (
