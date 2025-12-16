@@ -1,7 +1,7 @@
 .button {
     border: 1px solid transparent;
+    margin: 0 auto;
     box-shadow: 1px 1px 5px #8c8c8c;
-    margin: 0;
     font-size: 16px;
     border-radius: 8px;
     cursor: pointer;
@@ -11,6 +11,7 @@
 .contained {
     background-color: blue;
     border-color: blue;
+    color: #fff;
 }
 
 .text {
